@@ -1,8 +1,8 @@
-
+---
 layout: page
 title: "Lindley Resume"
 permalink: /Resume/
-
+---
 
 #
 # Collyn Lindley
