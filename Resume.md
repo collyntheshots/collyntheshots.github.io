@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-modernist
 layout: page
 title: "Lindley Resume"
 permalink: /Resume/
