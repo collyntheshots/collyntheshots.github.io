@@ -2,7 +2,7 @@
 theme: jekyll-theme-modernist
 layout: page
 title: "Lindley Resume"
-permalink: 
+permalink: /Resume/
 ---
 
 #
